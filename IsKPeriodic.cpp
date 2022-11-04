@@ -12,5 +12,6 @@ bool IsKPeriodic (const std::string &str, size_t multiple)
 			return false;
 		j++; i++;
 	}
+	
 	return true;
 }
